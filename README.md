@@ -14,15 +14,18 @@ Built using **Java/Kotlin**, **Retrofit**, and **OpenWeatherMap API**.
 ---
 
 ## 🛠 **Technologies Used**
-| Technology | Purpose |
-|------------|---------|
-| **Java/Kotlin** | Application development |
-| **Android Studio** | Development environment |
-| **Retrofit** | API communication |
-| **OpenWeatherMap API** | Weather data source |
-| **FusedLocationProvider** | Get current location |
-| **Permissions API** | Request location permissions |
-| **Material Components** | Modern UI elements |
+| Technology                | Purpose                                                            |
+| ------------------------- | ------------------------------------------------------------------ |
+| **Java/Kotlin**           | Application development                                            |
+| **Android Studio**        | Development environment                                            |
+| **Retrofit**              | API communication                                                  |
+| **OpenWeatherMap API**    | Weather data source                                                |
+| **FusedLocationProvider** | Get current location                                               |
+| **Permissions API**       | Request location permissions                                       |
+| **Material Components**   | Modern UI elements                                                 |
+| **MVVM Architecture**     | Clean separation of UI (View), Logic (ViewModel), and Data (Model) |
+| **Data Binding**          | Direct binding between UI components and LiveData/ViewModel        |
+
 
 ---
 
